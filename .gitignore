@@ -1,0 +1,7 @@
+*~
+*.pyc
+*.tar.gz
+*.tgz
+*.zip
+*.gz
+temp*
